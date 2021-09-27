@@ -16,13 +16,7 @@
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Application Files\CKCMSGUI_1_0_0_2\CKCMSGUI.dll.manifest" size="22817">
       <assemblyIdentity name="CKCMSGUI.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IbvvU9xSLLq8RIOYJJ6xExHcdcozzZUv43pyrf8ZAmE=</dsig:DigestValue>
-      </hash>
+     
     </dependentAssembly>
   </dependency>
 </asmv1:assembly>
